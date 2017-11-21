@@ -1,0 +1,29 @@
+body {
+	background: #606060
+}
+
+.main_div {
+	margin-top: 200px;
+	padding: 20px;
+	background: #f49618;
+	max-width: 400px;
+	height: auto;
+	box-shadow: 10px 10px 10px 10px #404040
+
+}
+
+.main_h1 {
+	text-transform: uppercase;
+	
+	color: #004198;	
+	font-size: 2em
+}
+.main_p {
+	text-transform: uppercase;
+	color: #004198;	
+	font-size: 0.9em;
+	font-weight: 700;
+}
+.main_search{
+	background: red
+}
